@@ -44,7 +44,7 @@ This project is made for the third year second semester System Development(CSE-3
 
 ## Introduction
 
-The increasing number of cars in cities can cause high volume of traffic, and implies that traffic violations become more critical nowadays in Bangladesh and also around the world. This causes severe destruction of property and more accidents that may endanger the lives of the people. To solve the alarming problem and prevent such unfathomable consequences, traffic violation detection systems are needed. For which the system enforces proper traffic regulations at all times, and apprehend those who does not comply. A traffic violation detection system must be realized in real-time as the authorities track the roads all the time. Hence, traffic enforcers will not only be at ease in implementing safe roads accurately, but also efficiently; as the traffic detection system detects violations faster than humans. This system can detect most common three types of traffic violation in real-time which are signal violation, parking violation and wrong direction violation. A user friendly graphical interface is associated with the system to make it simple for the user to operate the system, monitor traffic and take action against the violations of traffic rules.
+The increasing number of cars in cities can cause high volume of traffic, and implies that traffic violations become more critical nowadays in India and also around the world. This causes severe destruction of property and more accidents that may endanger the lives of the people. To solve the alarming problem and prevent such unfathomable consequences, traffic violation detection systems are needed. For which the system enforces proper traffic regulations at all times, and apprehend those who does not comply. A traffic violation detection system must be realized in real-time as the authorities track the roads all the time. Hence, traffic enforcers will not only be at ease in implementing safe roads accurately, but also efficiently; as the traffic detection system detects violations faster than humans. This system can detect most common three types of traffic violation in real-time which are signal violation, parking violation and wrong direction violation. A user friendly graphical interface is associated with the system to make it simple for the user to operate the system, monitor traffic and take action against the violations of traffic rules.
 
 ## Objective
 
@@ -238,13 +238,15 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 Goulla Koteshwar Reddy
 
 koteshwar316@gmail.com
+
 Student at Department of Computer Science and Engineering(iot)
 Malla Reddy College of Engineering, Hyderabad
 Telangana India
 
 ** Supervised under **
-Dr. A.RamaKrishna
-Professor
+
+Dr. A.RamaKrishna Professor
+
 Dept. of Computer Science and Engineering(iot)
 Malla Reddy College of Engineering, Hyderabad
 Telangana India

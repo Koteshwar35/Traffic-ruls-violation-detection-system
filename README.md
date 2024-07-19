@@ -52,9 +52,8 @@ The goal of the project is to automate the traffic rules violation detection sys
 
 ## Quick starting the project
 
-1. `git clone https://github.com/rahatzamancse/EyeTask.git`
-2. Install required python dependencies from `requirements.txt` into your python virtual environment. (`pip install -r requirements.txt`)
-3. `python main.py`
+1. Install required python dependencies from `requirements.txt` into your python virtual environment. (`pip install -r requirements.txt`)
+2. `python main.py`
 
 ## System Overview
 
@@ -227,29 +226,27 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 
 ## Links and References
 
-- Project homepage: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection
-- Repository: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection.git
-- Issue tracker: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection/issues
 - G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012.
 - X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violation Detection System," in MEC, Shenyang, China, 2013.
 - PyQt: https://riverbankcomputing.com/software/pyqt/intro
 - opencv: https://docs.opencv.org/2.4/index.html
 - imutils: https://github.com/jrosebr1/imutils
-- In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
+- In case of any help you may need from me, please contact koteshwar316@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
 
-Rahat Zaman, Sakib Reza
-rahatzamancse@gmail.com
-Student at Department of Computer Science and Engineering
-Khulna University of Engineering & Technology, Khulna
-Bangladesh
+Goulla Koteshwar Reddy
+koteshwar316@gmail.com
+Student at Department of Computer Science and Engineering(iot)
+Malla Reddy College of Engineering, Hyderabad
+Telangana India
 
 ** Supervised under **
-Dr. Sk. Mohammad Masudul Ahsan
+Dr. A.RamaKrishna
 Professor
-Dept. of Computer Science and Engineering
-Khulna University of Engineering & Technology
+Dept. of Computer Science and Engineering(iot)
+Malla Reddy College of Engineering, Hyderabad
+Telangana India
 
 ## Licensing
 
